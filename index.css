@@ -72,7 +72,7 @@ html, body{
     height: 100%;
     width: 100%;
     background-color: #000;
-    background-image: url("IMG_5193.jpg");
+    background-image: url("./IMG_5193.jpg");
     background-size: cover;
     background-position: center;
     filter: blur(5px);
